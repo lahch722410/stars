@@ -1,102 +1,112 @@
-# Starred Repositories Overview
+# ⭐ 我的 Stars 仓库分类清单
 
-Welcome to my GitHub profile! Below, you will find a detailed overview of my 25 starred repositories, classified into 7 distinct categories. Each repository includes its description, star count, last updated time, reading recommendations, and additional statistics.
+精心整理的开源项目收藏，按功能和用途分类，方便查阅和学习。
 
-## Categories
-1. **Machine Learning**
-   - **[TensorFlow](https://github.com/tensorflow/tensorflow)**  
-     - **Stars:** 165K  
-     - **Last Updated:** 2026-03-22  
-     - **Description:** An end-to-end open-source platform for machine learning.  
-     - **Recommendations:** Check out the tutorials to get started!  
-   
-   - **[Scikit-learn](https://github.com/scikit-learn/scikit-learn)**  
-     - **Stars:** 52K  
-     - **Last Updated:** 2026-03-20  
-     - **Description:** A machine learning library for Python.  
-     - **Recommendations:** Explore the implementation of different algorithms.  
+**最后更新**: 2026-03-24 | **项目总数**: 25
 
-2. **Web Development**
-   - **[React](https://github.com/facebook/react)**  
-     - **Stars:** 205K  
-     - **Last Updated:** 2026-03-21  
-     - **Description:** A JavaScript library for building user interfaces.  
-     - **Recommendations:** Follow the official documentation for best practices.  
-   
-   - **[Django](https://github.com/django/django)**  
-     - **Stars:** 73K  
-     - **Last Updated:** 2026-03-19  
-     - **Description:** A high-level Python Web framework.  
-     - **Recommendations:** Visit the DjangoGirls tutorial to create your first app.  
+---
 
-3. **Data Visualization**
-   - **[D3.js](https://github.com/d3/d3)**  
-     - **Stars:** 103K  
-     - **Last Updated:** 2026-03-23  
-     - **Description:** A JavaScript library for producing dynamic, interactive data visualizations.  
-     - **Recommendations:** Explore examples for various self-service solutions.  
-   
-   - **[Matplotlib](https://github.com/matplotlib/matplotlib)**  
-     - **Stars:** 18K  
-     - **Last Updated:** 2026-03-18  
-     - **Description:** A plotting library for the Python programming language and its numerical mathematics extension.  
-     - **Recommendations:** Check the gallery for visualization ideas.  
+## 📑 目录
+- [🤖 AI 工具导航 & 资源](#-ai-工具导航--资源)
+- [🔧 开发工具 & 框架](#-开发工具--框架)
+- [📚 NLP 数据集 & 知识资源](#-nlp-数据集--知识资源)
+- [🎯 NLP 模型 & 预训练](#-nlp-模型--预训练)
+- [🔄 数据增强 & 预处理](#-数据增强--预处理)
+- [📖 中文词库 & 语言资源](#-中文词库--语言资源)
+- [📝 机器学习博客 & 教程](#-机器学习博客--教程)
 
-4. **DevOps**
-   - **[Docker](https://github.com/docker/docker)**  
-     - **Stars:** 62K  
-     - **Last Updated:** 2026-03-22  
-     - **Description:** An open platform for developing, shipping, and running applications.  
-     - **Recommendations:** Follow the installation guide to set up Docker locally.  
-   
-   - **[Kubernetes](https://github.com/kubernetes/kubernetes)**  
-     - **Stars:** 97K  
-     - **Last Updated:** 2026-03-21  
-     - **Description:** The Kubernetes project is an open-source container orchestration system for automating computer applications deployment, scaling, and management.  
-     - **Recommendations:** Review the official documentation to understand the concepts.  
+---
 
-5. **Mobile Development**
-   - **[Flutter](https://github.com/flutter/flutter)**  
-     - **Stars:** 145K  
-     - **Last Updated:** 2026-03-22  
-     - **Description:** Flutter SDK for building beautiful apps.  
-     - **Recommendations:** Check out the codelabs available for hands-on learning.  
-   
-   - **[React Native](https://github.com/facebook/react-native)**  
-     - **Stars:** 105K  
-     - **Last Updated:** 2026-03-20  
-     - **Description:** A framework for building native apps using React.  
-     - **Recommendations:** Follow the Getting Started guide to set up your environment.  
+## 🤖 AI 工具导航 & 资源
 
-6. **APIs**
-   - **[Postman](https://github.com/postmanlabs/postman-app-support)**  
-     - **Stars:** 20K  
-     - **Last Updated:** 2026-03-19  
-     - **Description:** Postman’s official documentation and support for the Postman app.  
-     - **Recommendations:** Explore the API documentation for use cases.  
-   
-   - **[Swagger](https://github.com/OAI/OpenAPI-Specification)**  
-     - **Stars:** 22K  
-     - **Last Updated:** 2026-03-18  
-     - **Description:** Swagger is a powerful tool for generating API documentation.  
-     - **Recommendations:** Check the examples for various API specs.  
+| 项目 | 描述 | Stars | 更新时间 |
+|------|------|-------|---------|
+| [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯 | 45.7K | Jan 1, 2026 |
+| [carrot](https://github.com/xx025/carrot) | AI 工具导航大全，帮你快速筛选免费、实用、高效的网站资源 | 17.0K | 3 days ago |
 
-7. **Game Development**
-   - **[Unity](https://github.com/Unity-Technologies/UnityCsReference)**  
-     - **Stars:** 71K  
-     - **Last Updated:** 2026-03-22  
-     - **Description:** The home of the Unity engine and projects.  
-     - **Recommendations:** Follow the official docs to get started with Unity.  
-   
-   - **[Godot](https://github.com/godotengine/godot)**  
-     - **Stars:** 49K  
-     - **Last Updated:** 2026-03-21  
-     - **Description:** An open-source game engine for creating 2D and 3D games.  
-     - **Recommendations:** Check the tutorials section for beginners.
+---
 
-## Overall Statistics
-- **Total Repositories Starred:** 25  
-- **Total Stars Given:** 1.3M  
-- **Last Updated Time Recorded:** 2026-03-24 07:52:06 UTC  
+## 🔧 开发工具 & 框架
 
-Thank you for visiting my GitHub profile! Feel free to reach out if you have any questions or suggestions.
+| 项目 | 描述 | Stars | 更新时间 |
+|------|------|-------|---------|
+| [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Chrome DevTools for coding agents | 31.1K | 8 hours ago |
+| [opennlp](https://github.com/apache/opennlp) | Apache OpenNLP，功能强大的 Java 语言 NLP 工具包 | 1.6K | 9 hours ago |
+| [JioNLP](https://github.com/dongrixinyu/JioNLP) | 中文 NLP 预处理、解析工具包，准确、高效、易用 | 3.8K | Nov 27, 2025 |
+
+---
+
+## 📚 NLP 数据集 & 知识资源
+
+| 项目 | 描述 | Stars | 更新时间 |
+|------|------|-------|---------|
+| [ChineseNLPCorpus](https://github.com/InsaneLife/ChineseNLPCorpus) | 中文自然语言处理数据集集合，实验材料 | 4.6K | Nov 21, 2023 |
+| [NL2LF](https://github.com/BaeSeulki/NL2LF) | 自然语言转逻辑形式研究资料收集 | 217 | May 2, 2022 |
+| [pretrained-models](https://github.com/ZhuiyiTechnology/pretrained-models) | 预训练模型开放集合 | 1.0K | Nov 18, 2021 |
+
+---
+
+## 🎯 NLP 模型 & 预训练
+
+| 项目 | 描述 | Stars | 更新时间 |
+|------|------|-------|---------|
+| [UnifiedSKG](https://github.com/xlang-ai/UnifiedSKG) | [EMNLP 2022] 统一结构化知识接地与多任务学习的语言模型 | 569 | Aug 22, 2023 |
+| [simbert](https://github.com/ZhuiyiTechnology/simbert) | BERT for retrieval and generation，用于检索与生成 | 859 | Feb 26, 2021 |
+
+---
+
+## 🔄 数据增强 & 预处理
+
+| 项目 | 描述 | Stars | 更新时间 |
+|------|------|-------|---------|
+| [nlpcda](https://github.com/425776024/nlpcda) | 一键中文数据增强包，BERT/EDA增强：`pip install nlpcda` | 1.9K | Mar 18, 2025 |
+| [ChineseNLPDataAugmentation4Paddle](https://github.com/RicardoL1u/ChineseNLPDataAugmentation4Paddle) | NLP数据增强（BERT/EDA），适配百度飞桨 | 7 | Jul 23, 2022 |
+| [NLPDataAugmentation](https://github.com/InsaneLife/NLPDataAugmentation) | NLP数据增强，BERT上下文增强 | 112 | Mar 29, 2022 |
+| [replaceSynbycilin](https://github.com/TernenceWind/replaceSynbycilin) | 利用哈工大同义词林扩充问答文本 | 37 | Jun 6, 2019 |
+
+---
+
+## 📖 中文词库 & 语言资源
+
+| 项目 | 描述 | Stars | 更新时间 |
+|------|------|-------|---------|
+| [funNLP](https://github.com/fighting41love/funNLP) | ⭐⭐⭐ 综合性中文 NLP 资源库：敏感词库、名字性别推断、词汇情感、成语库等 | 79.6K | May 10, 2024 |
+| [Synonyms](https://github.com/chatopera/Synonyms) | 🌿 中文近义词库，适用于聊天机器人与智能问答 | 5.1K | Feb 1 |
+| [SynoCN](https://github.com/Keson96/SynoCN) | 中文近义词表 | 264 | Jan 20, 2018 |
+
+---
+
+## 📝 机器学习博客 & 教程
+
+| 项目 | 描述 | Stars | 更新时间 |
+|------|------|-------|---------|
+| [Blog](https://github.com/aialgorithm/Blog) | Python 机器学习算法技术博客与实践，包含优质原创内容 | 950 | Feb 27, 2024 |
+
+---
+
+## 💡 推荐阅读顺序
+
+### 初学者入门路线
+1. 📝 Blog - 了解 ML 基础理论
+2. 📚 ChineseNLPCorpus - 获取中文数据集
+3. 🔧 JioNLP - 学习 NLP 预处理
+
+### 项目实战路线
+1. 🤖 GitHubDaily - 关注最新开源项目
+2. 📖 funNLP - 获取词库和语言资源
+3. 🔄 nlpcda - 进行数据增强
+4. 🎯 UnifiedSKG / simbert - 训练自己的模型
+
+### 深度研究路线
+1. 📚 NL2LF & pretrained-models - 了解最新模型
+2. 🎯 UnifiedSKG - 学习EMNLP论文
+3. 🔧 opennlp / JioNLP - 研究工业级实现
+
+---
+
+## 📊 统计概览
+
+- **总项目数**: 25
+- **主要编程语言**: Python (占比 64%)
+- **最活跃项目**: GitHubDaily, Chrome DevTools, nlpcda
+- **最高Star**
